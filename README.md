@@ -5,7 +5,7 @@ Java program generating all the primes between 2 Integers and accessible via com
 
 ## How to Run
 
-  Run the following command inside the `/PrimeEngine/src/` directory:
+  Run the following command inside the `/prime-engine/src/` directory:
 
   `java com\simscale\PrimeChecker.java`
 
